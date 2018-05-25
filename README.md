@@ -1,2 +1,6 @@
 # study
-study, practice, tutorial
+Study, practice tutorials
+
+## Objectives
+One thing each day.
+
